@@ -1,0 +1,4 @@
+# Data files live on Google Drive; fetch them with download_files.py
+*.adicht
+*.adidat
+*.part
